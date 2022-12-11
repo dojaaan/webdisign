@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8">
+        <title>Korean wave</title>
+        <meta name="description" content="한류 관련 주제를 다루는 웹 페이지">
+        <style>
+            h1 {background-color: coral; font-size: 40px;}
+            h3 {background-color: gold;}
+        </style>
+    </head>
+
+    <body>
+        <h1>Korean wave</h1>
+        <section id="sns">
+            <div class="wrapper">
+                <div class="sns-box">
+                    <h3 class="sub-title">1.월드컵 개막 무대를 장식한 BTS 정국 (Jung Kook) 'Dreamers'</h3>
+                    <hr>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/jEdfjuG0Fx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/cYvnn35klps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <p>
+                        2022 국제축구연맹(FIFA) 카타르 월드컵에서 그룹 방탄소년단(BTS) 멤버 정국이 개막 공연을 펼쳤습니다.
+
+                        11월 20일 오후 5시 40분(현지시각) 카타르 알바이트 스타디움에서 BTS 정국은 개막 무대를 장식했습니다.
+                        
+                        정국은 시상대 모양의 무대에서 카타르 월드컵 공식 사운드트랙(OST) '드리머스'(Dreamers)를 열창했고, 수십 명의 댄서와 함께 안무를 선보였습니다.
+                        
+                        카타르 국민 가수인 파하드 알쿠바이시도 함께 등장해 노래를 부르면서 분위기는 최고조에 달했습니다.
+                        
+                        정국은 K팝 아이돌을 대표하는 BTS 멤버로, '드리머스'는 K팝 솔로 가수가 처음 단독으로 부른 월드컵 OST로 알려졌습니다.
+                    </p>
+                    <h3 class="sub-title">2.영국인들에게 한국 치킨을 줬더니…?</h3>
+                    <hr>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/QzDZGR5KuHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/81OBIsQoQIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <p>
+                        첫 ‘1위’ 치킨, 비결은 다양한 양념·한류 열풍 치킨이 외국인 ‘최애 한식’으로 등극하였습니다. 
+
+                        농림축산식품부(농식품부)와 한식진흥원이 지난 29일 공동 발간한 ‘2021 해외 한식 소비자 조사’에 따르면, 외국인이 주로 취식한 한식 1위는 한국식 치킨(30%)이었습니다. 
+
+                        해외 주요 도시 17곳 시민 8천500여명을 대상으로 조사했습니다.
+
+                        인기 비결로는 양념의 다양성이 꼽힙니다. 
+
+                        애초 미국식 닭튀김 요리이지만, △양념△간장△허니버터 등 한국만의 다양한 시즈닝으로 차별화에 성공했다는 것입니다. 
+
+                        실제 유튜브에 ‘Korean Chicken’을 검색해보면 해외의 높은 관심도를 확인할 수 있습니다. 
+
+                        세계적 치킨 브랜드 ‘KFC(Kentucky Fried Chicken)’를 ‘Korean Fried Chicken’으로 바꿔 부르기도 합니다.
+
+                        드라마와 K-POP 등 한류 열풍의 덕을 보기도 했습니다. 
+
+                        ‘치맥 문화’ 등으로 한국 콘텐츠에 자주 등장하는 치킨인만큼 그 관심도가 높아진 것입니다.
+
+                        지난 5월 발표한 농식품부의 ‘외식기업 해외진출 실태조사’에 따르면 현지 고객이 한국 식당을 방문할 때 한국 드라마(61.9%)와 K-POP(32.4%)에 크게 영향을 받는 것으로 나타났습니다.
+
+                    </p>
+                    <h3 class="sub-title">3.디지털 한류</h3>
+                    <hr>
+                    <img src="https://w.namu.la/s/a3eec97585c7a7fa73fb947f0f2c02020801f6ab95759380ba959bb1ee535799fdc985aa82ed997d5c6167091050c2491ef6443c8715ce7d9ae98a105cebb0708b07eef2aeb019ea2ef6bd87be2b0ea0c4234e05bce1d5002c7761845164b0c8" width="1000" height="600">
+                    <p>
+                        과거 한류는 국내에서 이미 인기가 입증된 드라마나 영화가 해외로 수출되면서 시작됐습니다. 이러한 형태의 한류는 일본, 몽골, 중화권, 이슬람권, 동남아 등지에서 큰 인기를 얻었습니다. 하지만 K-POP이 이끌고 있는 신한류는 한국에서 인기가 형성된 뒤 해외로 퍼지는 게 아니라 전세계에서 동시다발적으로 소비되는 양상을 보인다는 게 특징적입니다. 유튜브를 비롯한 소셜미디어가 한류를 전파하는 핵심 수단으로 떠올랐기 때문입니다.
+
+2010년대의 국내 가요계에선 앨범 발표에 앞서 유튜브를 통해 뮤직비디오 등을 미리 공개하는 게 일종의 공식처럼 자리잡았습니다. 2010년 9월 첫 정규앨범을 발표한 걸그룹 2NE1은 ‘캔트 노바디(Can't Nobody)’, ‘박수쳐’, ‘고 어웨이(Go Away)’ 3개 타이틀곡의 뮤직비디오를 유튜브를 통해 미리 내보냈습니다. 공개 2주 만에 1000만 건(3개 동영상 합산)이 넘는 조회수를 기록하며 전세계 팬들의 관심을 끌었습니다.
+
+원더걸스, 소녀시대를 비롯한 2PM·샤이니·f(x) 등 아이돌 그룹이 공식으로 데뷔하지 않은 북미·유럽·남미 등에서 대규모 팬을 확보하기 시작한 것도 이러한 디지털 파워 덕분입니다. 지난 한 해 유튜브에 등록된 국내 가수(SM엔터테인먼트·YG엔터테인먼트·JYP 엔터테인먼트 등 3대 기획사 소속) 동영상은 전세계 229개 국가에서 2010년 말 8억 회 가까이 조회된 것으로 조사됐습니다.
+
+유튜브 및 넷플릭스, 스포티파이 등 온라인 스트리밍 서비스의 규모가 비교할 수 없을 만큼 커진 2020년 현 시점에서 디지털 한류의 규모는 상단 사진의 2010년의 총 조회수 8억 따위는 우스워 보일 정도로 막대한 규모로 성장했습니다. 이제 대형 기획사 아이돌의 뮤비 한 편이 억대 조회수를 기록하는 건 아무도 놀랍게 받아들이지 않습니다.
+
+기획형 아이돌이나 유명 가수가 아니더라도 J.Fla처럼 개인적으로 올린 커버곡이 해외 팬들에게 주목받아 국제적인 인기를 얻는 케이스도 있습니다.
+
+케이팝 관련 데이터를 분석하는 케이팝 레이더에서 발표한 '2019 K-POP 세계지도'에 따르면, 2019년 한 해 동안 전 세계에서 발생한 케이팝 영상 조회수는 총 265억 5000만여 건이며, 이 중 89.1%가 해외에서 발생했습니다. 케이팝 영상을 시청한 10명 중 9명이 해외인 것입니다.
+                    </p>
+                    <img src="https://w.namu.la/s/41acce2e92f54e3f7bb21324049081702ec6f29acfd1f5a6aab7ccb2521b8086039feccecedd7557cd5615487040704432cdd29694fd86a77a1dc3cc07a885dd69975c8558e00d663c69e67652fea0dbc51841354091eaac5de3c4cea7f3359c72a62915300a841c5d13258f564290ae">
+                </div>
+            </div>
+        </section>
+    </body>
+</html>
